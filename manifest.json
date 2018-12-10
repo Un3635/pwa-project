@@ -1,0 +1,14 @@
+{
+  "short_name": "pwa", 
+  "display": "standalone",
+  "start_url": "/index.html",
+  "theme_color": "#8888ff",
+  "background_color": "red",
+  "icons": [
+    {
+        "src": "pwa.png",
+        "type": "image/png",
+        "sizes": "144x144"
+    }
+  ]
+}
